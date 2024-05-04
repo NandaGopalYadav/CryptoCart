@@ -38,3 +38,4 @@ CryptoCart/
 ## 🪪 License
 
 Licensed under the [MIT License](LICENSE)
+// Auto-edit: Add base HTML and CSS structure
