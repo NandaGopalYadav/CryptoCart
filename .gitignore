@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+.env
+.env.local
+.env.production
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# VSCode
+.vscode/
+
+# Dependency directories
+.pnpm-store/
+.yarn/
+
+# OS
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+faker.py
