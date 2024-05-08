@@ -39,3 +39,5 @@ CryptoCart/
 
 Licensed under the [MIT License](LICENSE)
 // Auto-edit: Add base HTML and CSS structure
+
+// Auto-edit: Integrate basic JavaScript cart logic
