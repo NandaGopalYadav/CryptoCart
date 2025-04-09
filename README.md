@@ -35,11 +35,3 @@ CryptoCart/
 
 ---
 
-## 🪪 License
-
-Licensed under the [MIT License](LICENSE)
-
-
-// Auto-edit: Polish stylesheets and transitions
-
-// Auto-edit: Clean unused files and optimize assets
